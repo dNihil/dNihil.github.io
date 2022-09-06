@@ -1,5 +1,5 @@
 ---
-layout:
+layout: page
 title: All My Links
 subtitle: Your one stop to stalk!
 ---
