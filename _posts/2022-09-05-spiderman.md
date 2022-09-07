@@ -12,8 +12,6 @@ Anyway here is the multi link to it, consider reuploading everywhere you can so 
 
 [https://anonfiles.com/56O9Q83ey6/Non-Newtonian_New_York-58-1-0-1660526891_zip](https://anonfiles.com/56O9Q83ey6/Non-Newtonian_New_York-58-1-0-1660526891_zip)
 
-[https://anonfiles.com/icE8w45ay0/Non-Newtonian_New_York-58-1-0-1660526891_zip](https://anonfiles.com/icE8w45ay0/Non-Newtonian_New_York-58-1-0-1660526891_zip)
-
 ### Comments will be added soon, so feel free to comment when the links die and I will update this new ones!
 
 Thanks frens and remember to reupload :)
