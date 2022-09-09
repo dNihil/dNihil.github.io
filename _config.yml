@@ -22,7 +22,9 @@ author: Nihil
 navbar-links:
   About Me: "aboutme"
   Links: "links"
-  ♥ Support: "https://paypal.me/dNihil"
+  ♥ Support: 
+   -PayPal: "https://paypal.me/dNihil/"
+   -Locals: "https://thethroneroom.locals.com/"
 
 ################
 # --- Logo --- #
