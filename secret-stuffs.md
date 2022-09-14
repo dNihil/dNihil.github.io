@@ -2,7 +2,8 @@
 
 > A curated list of arrrrrrrrr!
 
-### FMHY page can be found [HERE](https://dnihil.github.io/FMHY/)
+## FMHY page can be found [HERE](https://dnihil.github.io/FMHY/)
+## [Ripped Guide](https://ripped.guide/) is also a great resource
 
 ## Preamble
 Over the past couple of years, I've accumulated bookmarks, saved Reddit posts, and GitHub stars all related to piracy in some form or another. This list is my attempt to add structure to those resources and share them. Everything you need to get started on your pirate voyage can be found below.
