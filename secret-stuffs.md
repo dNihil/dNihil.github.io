@@ -1,10 +1,12 @@
 # Awesome Piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of arrrrrrrrr!
+
 <br/>
 
 ## FMHY page can be found [HERE](https://dnihil.github.io/FMHY/)
 ## [Ripped Guide](https://ripped.guide/) is also a great resource
+
 <br/>
     
 ## Preamble
