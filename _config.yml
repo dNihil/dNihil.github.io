@@ -172,9 +172,9 @@ page-img: "/assets/img/bgimage.png"
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.
 matomo:
-#  site_id: "70b5280f-07f6-4276-8217-14193a022dab"
-#  uri: "dnihil.github.io/homepage/"
-#  opt-out: true
+  site_id: "70b5280f-07f6-4276-8217-14193a022dab"
+  uri: "dnihil.github.io/homepage/"
+  opt-out: true
 
 ####################
 # --- Comments --- #
