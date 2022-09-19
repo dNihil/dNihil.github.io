@@ -24,3 +24,9 @@ subtitle: Your one stop to stalk!
 ### [PayPal](https://www.paypal.me/dnihil)
 
 ### [Locals](https://thethroneroom.locals.com/)
+
+# Enjoy my stream panels <3
+
+### [Example](https://animeis.life/KBIN.png)
+
+### [Stream Panels (Made with Photopea (not sponsored))](https://animeis.life/4Rwg.7z)
