@@ -18,6 +18,9 @@ subtitle: Your one stop to stalk!
 
 # SUPPORT ME!
 
+### [Tracy's Dog (18+ ONLY)](https://tracysdog.com?sca_ref=2623460.0A8bB8x7mk)
+<i>Tracy’s Dog is your loyal kink companion</i>
+
 ### [PayPal](https://www.paypal.me/dnihil)
 
 ### [Locals](https://thethroneroom.locals.com/)
