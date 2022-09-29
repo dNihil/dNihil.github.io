@@ -12,9 +12,9 @@ subtitle: Your one stop to stalk!
 
 # SOCIALS
 
-### [GETTR](https://gettr.com/user/d_nihil)
+### [shitposter.club](https://shitposter.club/Nihil)
 
-### [Minds](https://www.minds.com/dnihil/)
+### [obo.sh (backup)](https://obo.sh/web/@nihil)
 
 # SUPPORT ME!
 
