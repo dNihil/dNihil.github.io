@@ -12,7 +12,7 @@ subtitle: Your one stop to stalk!
 
 # SOCIALS
 
-### [shitposter.club](https://shitposter.club/Nihil)
+### [shitposter.club](https://soap.shitposter.club/@Nihil)
 
 ### [obo.sh (backup)](https://obo.sh/web/@nihil)
 
