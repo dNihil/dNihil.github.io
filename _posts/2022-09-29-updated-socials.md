@@ -17,6 +17,13 @@ My new primary platform, I will post all of my unfiltered BS here so feel free t
 
 Home to my second account!
 
+## Edit 9/30/22:
+### ___bae.st___
+#### [Soapbox FE](https://sb.bae.st/@nihil)
+
+One of the most welcoming instances with plenty of other services, light politics with a shit ton of memes and lewd anime babes. <br>
+Be kind to SJW and the other admin, very few rules so if you manage to get banned from here you won't be welcome in most instances.
+
 
 ### Future Plans
 As time goes on I will continue using the Fediverse as I am completely unbannable (depending on what instance hosts me) luckily I am on two amazing instances. <br>
