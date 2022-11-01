@@ -52,7 +52,7 @@ social-network-links:
   email: "d.nihil@pm.me" 
   minds: dnihil
   gettr: dnihil
-  github: dnihil
+#  github: dnihil
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -67,7 +67,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
+  mastodon: bae.st/@nihil
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
@@ -91,7 +91,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "dnihil.github.io/homepage"
+url-pretty: "dnihil.github.io/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -173,7 +173,7 @@ page-img: "/assets/img/bgimage.png"
 # whether or not you want to allow users to opt out of tracking.
 matomo:
   site_id: "70b5280f-07f6-4276-8217-14193a022dab"
-  uri: "dnihil.github.io/homepage/"
+  uri: "dnihil.github.io/"
   opt-out: true
 
 ####################
