@@ -10,13 +10,15 @@ subtitle: Your one stop to stalk!
 
 ### [Utreon](https://utreon.com/c/Nihil)
 
-# SOCIALS
-
-### [shitposter.club](https://soap.shitposter.club/@Nihil)
+# SOCIALS (In order from Main to Alts)
 
 ### [bae.st](https://sb.bae.st/@nihil)
 
-### [obo.sh (backup)](https://obo.sh/web/@nihil)
+### [rayci.st](https://rayci.st/@nihil)
+
+### [retard.tech](https://retard.tech/@nihil)
+
+### [shitposter.club](https://soap.shitposter.club/@Nihil)
 
 # SUPPORT ME!
 
