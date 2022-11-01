@@ -21,6 +21,13 @@ Home to my second account!
 ### ___bae.st___
 #### [Soapbox FE](https://sb.bae.st/@nihil)
 
+## Edit 10/31/22:
+### ___retard.tech___
+#### [Soapbox FE](https://retard.tech/@nihil)
+
+### ___rayci.st___
+#### [Soapbox FE](https://rayci.st/@nihil)
+
 One of the most welcoming instances with plenty of other services, light politics with a shit ton of memes and lewd anime babes. <br>
 Be kind to SJW and the other admin, very few rules so if you manage to get banned from here you won't be welcome in most instances.
 
