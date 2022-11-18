@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Support
+title: Crypto Support
 subtitle: Any and all support is greatly appreciated!
 ---
 ### Crypto
@@ -10,11 +10,3 @@ subtitle: Any and all support is greatly appreciated!
 #### USD Coin (USDC): `0x214805cF1A0dC3Ef262787a693d83d927F837f15`
 
 #### DOGE Coin (DOGE): `DRMZcmSVf1hXwEhD5iNSydeTaHZMBy6JH5`
-
----
-
-### Legacy Currency
-
-#### [PayPal](https://www.paypal.me/dnihil)
-
-#### [Locals](https://thethroneroom.locals.com/)
